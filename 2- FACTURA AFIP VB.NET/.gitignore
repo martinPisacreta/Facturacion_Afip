@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PrototipoAfip/v15/.suo
+/.vs/PrototipoAfip/v15/Server/sqlite3
